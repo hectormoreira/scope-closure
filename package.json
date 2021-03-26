@@ -1,0 +1,19 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "Repo del Curso de Closures y Scope en JavaScript - Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectormoreira/scope-closure.git"
+  },
+  "author": "Hector Hugo Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectormoreira/scope-closure/issues"
+  },
+  "homepage": "https://github.com/hectormoreira/scope-closure#readme"
+}
