@@ -1,4 +1,4 @@
-# Scope - closure en JavaScript
+# Scope - Closure en JavaScript
 Repo del [Curso de Closures y Scope en JavaScript](https://platzi.com/clases/scope/) - Platzi
 
 
