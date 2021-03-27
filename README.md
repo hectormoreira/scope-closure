@@ -25,6 +25,8 @@ Repo del [Curso de Closures y Scope en JavaScript](https://platzi.com/clases/sco
 
 **Ambito lexico**: las funciones que se ejecutan utilizando las cadenas del alcance donde está vigente.
 
+**Hoisting**: Elevación de las declaraciones, solo en declaraciones y no en inicializaciones
+
 
 
 ## Recursos
